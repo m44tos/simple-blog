@@ -1,0 +1,13 @@
+.ContainerArtigos{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+    margin-top: 20px;
+    gap: 20px;
+}
+header{
+    display: flex;
+    justify-content: center;
+}
